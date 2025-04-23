@@ -1,0 +1,432 @@
+id,type,floor,status,installed,desc,location/0,location/1,addedBy
+A81758FFFE046433,Elsys ERS Sound,4,installed,2020-06-06T00:00:00.000Z,Attached to old video projector mount,65.05765,25.46897,risto
+A81758FFFE030F6A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Cube 6,65.05875,25.46565,jeremias
+A81758FFFE031018,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,2nd grey pillar from door 2T,65.05884,25.46823,jeremias
+A81758FFFE046500,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Next to yellow guide signs,65.06081,25.46679,jeremias
+A81758FFFE031009,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Opposite to elevator, next to green door",65.05842,25.46385,jeremias
+A81758FFFE031087,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Yellow cable channel next to ""Tekniikan aula""",65.05850,25.46674,jeremias
+A81758FFFE0464F8,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Main Hallway in front of OP-Pohjola-sali,65.05994,25.46657,jeremias
+A81758FFFE030F8B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel next to entrance G1,65.05961,25.46600,jeremias
+A81758FFFE030F68,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway Yellow cable channel in front of PR161,65.05963,25.46852,jeremias
+A81758FFFE03100D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,yellow cable channel In front of X entrance,65.05998,25.46886,jeremias
+A81758FFFE030F93,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,opposite to TT1116 above green door,65.05965,25.46385,jeremias
+A81758FFFE0464AC,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Coat rack next to white round pillar,65.05688,25.46774,jeremias
+A81758FFFE031090,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,North-end lobby,65.05807,25.46889,jeremias
+A81758FFFE03100F,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,3rd floor center lobby,65.05785,25.46883,jeremias
+A81758FFFE0464B3,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,CAVE backside of elevator wall,65.05776,25.46879,jeremias
+A81758FFFE031033,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Above door HR425,65.05719,25.46788,jeremias
+A81758FFFE046338,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,BF119-3 Above video projector,65.05967,25.46340,jeremias
+A81758FFFE031020,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,TM109 backwall,65.05988,25.46846,jeremias
+A81758FFFE030FD4,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK25 next to window,65.06106,25.46617,jeremias
+A81758FFFE030FB2,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK264 backwall,65.06113,25.46619,jeremias
+A81758FFFE031062,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,PK307 Corner pillar,65.06141,25.46720,jeremias
+A81758FFFE03101F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against Napa wall row 10,65.05947,25.46605,jeremias
+A81758FFFE031077,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against L1 wall row 3,65.05946,25.46647,jeremias
+A81758FFFE030F83,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Wall against L2 row 9,65.05907,25.46647,jeremias
+A81758FFFE031030,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Backwall,65.05916,25.46565,jeremias
+A81758FFFE031032,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above Inva WC door,65.05774,25.46448,jeremias
+A81758FFFE04657D,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,L8,65.05979,25.46604,jeremias
+A81758FFFE030FEC,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,PR102 above video projector,65.05969,25.46679,jeremias
+A81758FFFE030F82,Elsys ERS CO2,-1,installed,2020-06-06T00:00:00.000Z,Above food lines,65.05936,25.46628,jeremias
+A81758FFFE030F5A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Cafe hub above the casheer,65.05935,25.46657,jeremias
+A81758FFFE031091,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel in front of Humus,65.05849,25.46598,jeremias
+A81758FFFE030F7E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,In front of dish return station,65.06043,25.46667,jeremias
+A81758FFFE03101E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above Kylymä Inva WC door,65.05790,25.46870,jeremias
+A81758FFFE031005,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Under bronze University emblem in front of Kastari,65.05701,25.46774,jeremias
+A81758FFFE046336,Elsys ERS Sound,4,installed,2020-06-06T00:00:00.000Z,Opposite to double elevator,65.05797,25.46891,jeremias
+A81758FFFE04633E,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,L10,65.05800,25.46674,jeremias
+A81758FFFE030D4B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 4 slot 7,65.05867,25.46641,jeremias
+A81758FFFE030F4B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 4 slot 9,65.05862,25.46645,jeremias
+A81758FFFE030FA6,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Brisk,65.05855,25.46626,jeremias
+A81758FFFE031076,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 7 slot 2,65.05876,25.46625,jeremias
+A81758FFFE046506,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 13 slot 5,65.05871,25.46598,jeremias
+A81758FFFE031096,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 19 slot 13,65.05854,25.46568,jeremias
+A81758FFFE0463BA,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 23 slot 11,65.05858,25.46546,jeremias
+A81758FFFE030F4F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 28 slot 7,65.05867,25.46523,jeremias
+A81758FFFE031023,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 20 slot 2,65.05877,25.46562,jeremias
+A81758FFFE030D4E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Galaxy,65.05882,25.46548,jeremias
+A81758FFFE031067,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 28 slot 4,65.05872,25.46520,jeremias
+A81758FFFE030F8D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 21 slot 8,65.05865,25.46560,jeremias
+A81758FFFE030FC3,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Agora ceiling in front of safety boxes,65.05877,25.46786,jeremias
+A81758FFFE031002,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Agora medialounge ceiling,65.05866,25.46746,jeremias
+A81758FFFE030F7C,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Coffee room above Agora,65.05871,25.46804,jeremias
+A81758FFFE04646A,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,L6 above row 13,65.05991,25.46633,jeremias
+A81758FFFE046465,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,"Hallway, white pillar next to windows",65.05751,25.46781,jeremias
+A81758FFFE031055,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,L2 next to lower level exit,65.05920,25.46606,jeremias
+A81758FFFE031000,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,White pillar on hallway leading to OAMK side of campus,65.06030,25.46663,jeremias
+A81758FFFE046532,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,Attached to 2nd floor safety fence,65.05890,25.46798,jeremias
+A81758FFFE046530,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Fablab next to laser cutter,65.05895,25.46782,jeremias
+A81758FFFE046F2A,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,"JULIA D4/D5, next to pond",65.06345,25.46497,jeremias
+A81758FFFE044881,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A6,65.06339,25.46562,jeremias
+A81758FFFE041FEC,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A15,65.06335,25.46547,jeremias
+A81758FFFE030F7A,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Next to TS415,65.05805,25.46973,jeremias
+A81758FFFE030FDC,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Next to TS479,65.05772,25.46836,jeremias
+A81758FFFE030F61,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Hallway between TS345 & TS346 next to green door,65.05789,25.46834,jeremias
+A81758FFFE030F59,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Corner next to TS3104,65.05745,25.46831,jeremias
+A81758FFFE030FB0,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Corner next to bathrooms. Above fire extinguisher,65.05786,25.46972,jeremias
+A81758FFFE031040,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Corner of central lobby,65.05765,25.46884,jeremias
+A81758FFFE031043,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,2nd story glassbridge/hallway,65.05757,25.46833,jeremias
+A81758FFFE030FE8,Elsys ERS CO2,5,installed,2020-06-06T00:00:00.000Z,5th floor on top of stairs,65.05797,25.46894,jeremias
+A81758FFFE03105F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to Aquarium-door,65.05749,25.46956,jeremias
+A81758FFFE030FB5,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,White pillar in Foodoo dining section,65.06071,25.46656,jeremias
+A81758FFFE031045,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Wall between childrens books and Guides to research-books,65.06126,25.46618,jeremias
+A81758FFFE030FEE,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,End of coursebook shelf Le-Lo,65.06132,25.46708,jeremias
+A81758FFFE030FB1,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Above self borrow station,65.06128,25.46694,jeremias
+A81758FFFE030F4D,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Computer room PK247,65.06121,25.46651,jeremias
+A81758FFFE030FAC,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Psoas lounge lobby,65.05785,25.46718,jeremias
+A81758FFFE03101B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Cube 3,65.05860,25.46616,jeremias
+A81758FFFE030F44,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel next to tellus entrance,65.05885,25.46648,jeremias
+A81758FFFE04657B,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,3rd grey pillar from entrance 2T,65.05884,25.46814,jeremias
+A81758FFFE046437,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel in front of Foobar,65.05823,25.46691,jeremias
+A81758FFFE030FD5,Elsys ERS CO2,1,planned,2020-06-06T00:00:00.000Z,Yellow cable channel in Main Hallway-Kauppakatu crossing,65.05999,25.46668,jeremias
+A81758FFFE03105E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,PSOAS lounge lobby above soda machine,65.05790,25.46738,jeremias
+A81758FFFE03104C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Next to entrance J, above ""Yökköset""",65.05887,25.46357,jeremias
+A81758FFFE030FBD,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,10m south from Campus shop,65.06087,25.46683,jeremias
+A81758FFFE0464A9,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Opposite to elevator,65.05998,25.46868,jeremias
+A81758FFFE031021,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway Yellow cable channel in front of TM101,65.05965,25.46818,jeremias
+A81758FFFE030FF5,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway to ITEE building,65.05791,25.46820,jeremias
+A81758FFFE0463C0,Elsys ERS Sound,4,installed,2020-06-06T00:00:00.000Z,TS455 under shelf,65.05790,25.46992,jeremias
+A81758FFFE030FF3,Elsys ERS CO2,5,installed,2020-06-06T00:00:00.000Z,TS501 Attached to shelves,65.05808,25.46859,jeremias
+A81758FFFE03107D,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Opposite to elevators,65.05797,25.46890,jeremias
+A81758FFFE030FFB,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to fire extinguisher,65.05781,25.46880,jeremias
+A81758FFFE031012,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,HR144 Above Pentti Kaiteras painting,65.05720,25.46815,jeremias
+A81758FFFE030FE4,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,TM103 above whiteboard,65.05969,25.46836,jeremias
+A81758FFFE030D52,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,TM113 above video projector,65.05984,25.46819,jeremias
+A81758FFFE03101C,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK268 pillar next to window,65.06113,25.46637,jeremias
+A81758FFFE03102F,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK263 Backwall,65.06113,25.46615,jeremias
+A81758FFFE031019,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,PK308 corner pillar,65.06146,25.46720,jeremias
+A81758FFFE031073,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against Napa wall row 19,65.05955,25.46604,jeremias
+A81758FFFE030FA4,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against Cafe hub wall row 6,65.05939,25.46672,jeremias
+A81758FFFE031084,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against L2 wall row 15,65.05902,25.46647,jeremias
+A81758FFFE0464A8,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Backwall,65.05910,25.46576,jeremias
+A81758FFFE0464F9,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Above Inva WC door,65.05773,25.46448,jeremias
+A81758FFFE046583,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,L7,65.05990,25.46602,jeremias
+A81758FFFE031080,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,FY260,65.05897,25.46461,jeremias
+A81758FFFE04657A,Elsys ERS Sound,-1,installed,2020-06-06T00:00:00.000Z,Above food lines,65.05938,25.46628,jeremias
+A81758FFFE046581,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,In the middle of the Cafe hub roof,65.05935,25.46646,jeremias
+A81758FFFE03100B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above board games corner,65.05841,25.46594,jeremias
+A81758FFFE03103C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"10m north from ""START HERE"" signs",65.06060,25.46670,jeremias
+A81758FFFE0464FA,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Kylymä backwall of elevator,65.05796,25.46879,jeremias
+A81758FFFE0464BB,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Next to cash register on the roof,65.05973,25.46487,jeremias
+A81758FFFE031063,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Opposite to double elevator,65.05798,25.46891,jeremias
+A81758FFFE03108B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,L10,65.05804,25.46674,jeremias
+A81758FFFE046507,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 2 slot 6,65.05868,25.46649,jeremias
+A81758FFFE031013,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Aspire,65.05855,25.46634,jeremias
+A81758FFFE046431,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus Chill,65.05855,25.46607,jeremias
+A81758FFFE04650A,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 10 slot 3,65.05875,25.46614,jeremias
+A81758FFFE031081,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 13 slot 2,65.05877,25.46598,jeremias
+A81758FFFE046505,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 19 slot 12,65.05856,25.46567,jeremias
+A81758FFFE031085,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 25 slot 10,65.05860,25.46540,jeremias
+A81758FFFE0463B8,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 28 slot 7,65.05866,25.46523,jeremias
+A81758FFFE046503,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 21 slot 3,65.05874,25.46559,jeremias
+A81758FFFE030FE1,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Horizon,65.05882,25.46540,jeremias
+A81758FFFE031017,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 24 slot 3,65.05875,25.46542,jeremias
+A81758FFFE030F43,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 19 slot 6,65.05867,25.46568,jeremias
+A81758FFFE04633B,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Agora ceiling next to wooden scaled models,65.05877,25.46772,jeremias
+A81758FFFE030F6D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Agora central lobby white pillar,65.05875,25.46772,jeremias
+A81758FFFE030D51,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,In pillar opposite to AT214,65.05864,25.46805,jeremias
+A81758FFFE030F8E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,L6 above row 13,65.05995,25.46633,jeremias
+A81758FFFE030D4F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Lobby of entrance next to H20,65.05758,25.46767,jeremias
+A81758FFFE030FB9,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel in front of SÄ104,65.05999,25.46724,jeremias
+A81758FFFE031072,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Main hallway yellow cable channel in front of L5,65.05977,25.46647,jeremias
+A81758FFFE046533,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,"In ""Protopaja"" next to TF133 door",65.05891,25.46803,jeremias
+A81758FFFE046531,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Fablab next to HAAS-machine,65.05891,25.46780,jeremias
+A81758FFFE041FEA,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,JULIA F middle island,65.06340,25.46489,jeremias
+A81758FFFE044882,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO B2,65.06334,25.46566,jeremias
+A81758FFFE044880,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A17,65.06341,25.46533,jeremias
+A81758FFFE03108C,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,oppposite to TS421 above fire extinguisher,65.05806,25.46922,jeremias
+A81758FFFE031099,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Next to TS482,65.05766,25.46842,jeremias
+A81758FFFE031083,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,corner of 3rd floor central lobby,65.05765,25.46884,jeremias
+A81758FFFE030FB3,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Opposite to TS214,65.05804,25.46970,jeremias
+A81758FFFE030F65,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Opposite to large elevator,65.05776,25.46891,jeremias
+A81758FFFE046577,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,Corner of central lobby,65.05766,25.46884,jeremias
+A81758FFFE031054,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,3rd floor Glassbridge/hallway,65.05755,25.46833,jeremias
+A81758FFFE031028,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to TS181-1,65.05745,25.46926,jeremias
+A81758FFFE030F66,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Coffee room TS18,65.05743,25.46958,jeremias
+A81758FFFE046576,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,White pillar near the pillar next to spices desk,65.06062,25.46642,jeremias
+A81758FFFE046578,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Roof above medical books,65.06139,25.46632,jeremias
+A81758FFFE030FF0,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Ceiling in front of info desk,65.06130,25.46679,jeremias
+A81758FFFE031065,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to PK237,65.06142,25.46617,jeremias
+A81758FFFE030F5B,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Special collections lobby centre white pillar,65.06123,25.46683,jeremias
+A81758FFFE031086,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Library hallway next to clock attached to lamp railing,65.06155,25.46704,jeremias
+A81758FFFE031046,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Attached to 2nd floor safety fence,65.05891,25.46798,jeremias
+A81758FFFE030F88,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Opposite to 7B103,65.06134,25.46942,jeremias
+A81758FFFE031079,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Lobby wall opposite to 7A204,65.06122,25.46816,jeremias
+A81758FFFE030F80,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Attached to unused video projector mount,65.05763,25.46897,risto
+A81758FFFE030FD6,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Cube 4,65.05860,25.46609,jeremias
+A81758FFFE030F79,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel in front of Juicebar,65.05910,25.46626,jeremias
+A81758FFFE030FDA,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,6th grey pillar from entrance 2T,65.05884,25.46757,jeremias
+A81758FFFE03102D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel in front of Foobar,65.05823,25.46691,jeremias
+A81758FFFE031004,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel in front of info desk,65.05953,25.46628,jeremias
+A81758FFFE0464B8,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,PSOAS lounge lobby above soda machine,65.05789,25.46738,jeremias
+A81758FFFE0464FE,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,"Next to mens WC, above ""Hyönteisten sukupuu""",65.05885,25.46384,jeremias
+A81758FFFE030FFF,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,In front of safety boxes,65.06110,25.46679,jeremias
+A81758FFFE03104D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above info TV,65.05998,25.46850,jeremias
+A81758FFFE0464AD,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Hallway Yellow cable channel in front of TM101,65.05965,25.46823,jeremias
+A81758FFFE04633A,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Hallway to ITEE building,65.05791,25.46806,jeremias
+A81758FFFE04657E,Elsys ERS Sound,4,installed,2020-06-06T00:00:00.000Z,TS455 above shelf,65.05788,25.47007,jeremias
+A81758FFFE03100E,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,North-end lobby,65.05808,25.46890,jeremias
+A81758FFFE046434,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,North-end lobby,65.05807,25.46890,jeremias
+A81758FFFE031031,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to E entrance above info TV,65.05807,25.46893,jeremias
+A81758FFFE031038,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,HR321 North-East corner,65.05715,25.46785,jeremias
+A81758FFFE031098,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,TM105 backwall,65.05971,25.46838,jeremias
+A81758FFFE03107A,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK253 Next to window,65.06106,25.46630,jeremias
+A81758FFFE031092,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK267 next to window,65.06113,25.46633,jeremias
+A81758FFFE031037,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK262 Backwall,65.06113,25.46611,jeremias
+A81758FFFE030FD0,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,PK309 corner pillar,65.06149,25.46721,jeremias
+A81758FFFE030F9C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against L2 wall row 4,65.05933,25.46572,jeremias
+A81758FFFE04633C,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Backwall,65.05950,25.46678,jeremias
+A81758FFFE030FA8,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Wall against Cafe hub row 10,65.05921,25.46683,jeremias
+A81758FFFE0464AF,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,In front of first row under equipment shelf,65.05924,25.46590,jeremias
+A81758FFFE0464FC,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,"Next to entrance 2M, under first spotlight",65.05787,25.46390,jeremias
+A81758FFFE046438,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,IT106,65.05771,25.46395,jeremias
+A81758FFFE03101A,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,FY259,65.05902,25.46461,jeremias
+A81758FFFE03108A,Elsys ERS CO2,-1,installed,2020-06-06T00:00:00.000Z,Above bread table,65.05941,25.46641,jeremias
+A81758FFFE030FA1,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,H20 above the red bicycle,65.05760,25.46760,jeremias
+A81758FFFE0464B6,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Humus above casheer,65.05845,25.46595,jeremias
+A81758FFFE0464B2,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,In front of Subway,65.06106,25.46678,jeremias
+A81758FFFE046337,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,In the middle of Kastari,65.05702,25.46767,jeremias
+A81758FFFE030FBB,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to cash register on the roof,65.05971,25.46487,jeremias
+A81758FFFE030F48,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to Kylymä cash register and TST-info boards,65.05801,25.46847,jeremias
+A81758FFFE031064,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 4 slot 2,65.05877,25.46641,jeremias
+A81758FFFE03105A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 1 slot 8,65.05864,25.46656,jeremias
+A81758FFFE046439,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus Aspire,65.05856,25.46644,jeremias
+A81758FFFE031016,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Chill,65.05854,25.46607,jeremias
+A81758FFFE030D4A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 10 slot 5,65.05871,25.46614,jeremias
+A81758FFFE03102B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 16 slot 3,65.05874,25.46583,jeremias
+A81758FFFE03102A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 18 slot 9,65.05862,25.46570,jeremias
+A81758FFFE030FBE,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 23 slot 9,65.05862,25.46548,jeremias
+A81758FFFE03103A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 28 slot 10,65.05862,25.46523,jeremias
+A81758FFFE030FF2,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 22 slot 3,65.05875,25.46553,jeremias
+A81758FFFE0463C1,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus Horizon,65.05882,25.46533,jeremias
+A81758FFFE0463BB,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 25 slot 4,65.05873,25.46537,jeremias
+A81758FFFE030FDF,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Frost Club,65.05880,25.46638,jeremias
+A81758FFFE030FB7,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Agora ceiling 5m west from -33B sensor right next to it,65.05877,25.46763,jeremias
+A81758FFFE030FC0,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Agora hallway ceiling in front of AT146,65.05867,25.46772,jeremias
+A81758FFFE030F6F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,L5 above video projector,65.05972,25.46632,jeremias
+A81758FFFE030F9F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway next to info board outside of New Hairstore,65.05789,25.46767,jeremias
+A81758FFFE030F53,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway above blue door,65.05739,25.46777,jeremias
+A81758FFFE030FAD,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to double entrance on hallway leading to OAMK side of campus,65.06020,25.46669,jeremias
+A81758FFFE0464B0,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Main hallway yellow cable channel in front of L5,65.05976,25.46647,jeremias
+A81758FFFE030FAE,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"In ""Protopaja"" next to TF133 door",65.05891,25.46803,jeremias
+A81758FFFE041FEB,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,JULIA D1,65.06346,25.46512,jeremias
+A81758FFFE044896,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A3,65.06343,25.46577,jeremias
+A81758FFFE044893,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO B3/B4 corner,65.06329,25.46557,jeremias
+A81758FFFE04487E,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A13,65.06340,25.46544,jeremias
+A81758FFFE030FEF,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Next to door opposite to TS402 1,65.05803,25.46833,jeremias
+A81758FFFE030FAA,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,corner of 4th floor central lobby,65.05784,25.46884,jeremias
+A81758FFFE03106A,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,3rd floor south end lobby,65.05747,25.46891,jeremias
+A81758FFFE031059,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Hallway between TS274 & TS273 next to green door,65.05783,25.46833,jeremias
+A81758FFFE031082,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Opposite to large elevator,65.05777,25.46891,jeremias
+A81758FFFE030F99,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to TS2128,65.05744,25.46877,jeremias
+A81758FFFE03108D,Elsys ERS CO2,5,installed,2020-06-06T00:00:00.000Z,5th floor on top of stairs,65.05776,25.46895,jeremias
+A81758FFFE046572,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,South-end lobby,65.05745,25.46883,jeremias
+A81758FFFE046579,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Coffee room TS178,65.05743,25.46957,jeremias
+A81758FFFE030FFD,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Backwall, lower part of Foodoo",65.06075,25.46633,jeremias
+A81758FFFE030FA5,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,On the wall next to PK123,65.06142,25.46682,jeremias
+A81758FFFE030F7D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Ceiling above Library computers,65.06130,25.46654,jeremias
+A81758FFFE030FC2,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,2nd floor in philosophy and history department white pillar next to stairs,65.06145,25.46664,jeremias
+A81758FFFE030F63,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,In front of elevator,65.06127,25.46692,jeremias
+A81758FFFE030FF7,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,in front of 3rd floor bookshelf department door,65.06146,25.46666,jeremias
+A81758FFFE030FEA,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z, Fablab 2nd floor group project space lamp railing,65.05893,25.46803,jeremias
+A81758FFFE030FB6,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to OAMK entrance C5 ,65.06133,25.46981,jeremias
+A81758FFFE030FE3,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to Green door between Pegasus and OAMK. OAMK side of door.,65.06124,25.46738,jeremias
+A81758FFFE03106C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Corner of 7E101,65.06144,25.46916,jeremias
+A81758FFFE031027,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Multifunction space ""Sara"" PK38",65.06366,25.46515,jeremias
+A81758FFFE030F8A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to backstage computers in Saalastinsali,65.05692,25.46841,jeremias
+A81758FFFE030F47,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Saalastinsali, next to entrance",65.05696,25.46787,jeremias
+A81758FFFE030FA2,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7A151,65.06130,25.46864,jeremias
+A81758FFFE04652C,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,in 7B103,65.06113,25.46914,jeremias
+A81758FFFE0463B3,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,Lobby wall opposite to 7A204,65.06122,25.46810,jeremias
+A81758FFFE030FBC,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,On the wall next to the coffee machine,65.05767,25.46903,risto
+A81758FFFE03103D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Cube 5,65.05871,25.46568,jeremias
+A81758FFFE031034,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Horizontal pillar above green coat rack,65.05896,25.46608,jeremias
+A81758FFFE04657C,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,"Above yellow sign in ""Tekniikan aula""",65.05844,25.46671,jeremias
+A81758FFFE030FF9,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Main Hallway in front of OP-Pohjola-sali,65.05994,25.46653,jeremias
+A81758FFFE030D50,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel next to entrance V1,65.05961,25.46650,jeremias
+A81758FFFE030FCA,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to GO-102,65.05844,25.46344,jeremias
+A81758FFFE030F74,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,In front of entrance A,65.06084,25.46694,jeremias
+A81758FFFE0464AE,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Between info TVs in front of B entrance,65.06115,25.46698,jeremias
+A81758FFFE031060,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to KTK-102,65.05999,25.46422,jeremias
+A81758FFFE0464AA,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,above BF119-3,65.05965,25.46354,jeremias
+A81758FFFE03105C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Coat rack next to white round pillar,65.05689,25.46774,jeremias
+A81758FFFE030FE2,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,TS 455 above shelf,65.05788,25.47007,jeremias
+A81758FFFE0464B4,Elsys ERS Sound,3,installed,2020-06-06T00:00:00.000Z,3rd floor center lobby,65.05786,25.46884,jeremias
+A81758FFFE030F6C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,CAVE backside of elevator wall,65.05774,25.46879,jeremias
+A81758FFFE0464B9,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Next to E entrance above info TV,65.05807,25.46894,jeremias
+A81758FFFE030F96,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,IT240 next to door,65.05783,25.46435,jeremias
+A81758FFFE031035,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,TM107 backwall,65.05978,25.46838,jeremias
+A81758FFFE031036,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK258 next to window,65.06106,25.46602,jeremias
+A81758FFFE030F77,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK265 backwall,65.06113,25.46623,jeremias
+A81758FFFE031022,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,PK306 next to whiteboard,65.06137,25.46720,jeremias
+A81758FFFE03100C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against Napa wall row 4,65.05944,25.46605,jeremias
+A81758FFFE030F76,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Against L1 wall row 10,65.05953,25.46647,jeremias
+A81758FFFE031061,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Wall against L2 row 2,65.05913,25.46648,jeremias
+A81758FFFE04633F,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Backwall,65.05906,25.46688,jeremias
+A81758FFFE030FD1,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above IT108 door,65.05769,25.46427,jeremias
+A81758FFFE046582,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,L9,65.05972,25.46604,jeremias
+A81758FFFE031010,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,PR101 above video projector,65.05969,25.46667,jeremias
+A81758FFFE030F81,Elsys ERS CO2,-1,installed,2020-06-06T00:00:00.000Z,Yellow Cable channel next to elevator,65.05926,25.46627,jeremias
+A81758FFFE030F7B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel in front of Cafe hub,65.05935,25.46632,jeremias
+A81758FFFE030F4C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,H20 above the green bicycle,65.05769,25.46760,jeremias
+A81758FFFE046430,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,"In front of ""START HERE""-signs",65.06057,25.46666,jeremias
+A81758FFFE030FBF,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,In front of Campus shop,65.06094,25.46679,jeremias
+A81758FFFE031051,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above Kastaris bread table,65.05705,25.46767,jeremias
+A81758FFFE03105D,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Attached to roof floor double elevator lobby right next to fire door,65.05791,25.46887,jeremias
+A81758FFFE030FC5,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,L10,65.05798,25.46671,jeremias
+A81758FFFE030F9B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 2 slot 4,65.05874,25.46651,jeremias
+A81758FFFE046508,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 4 slot 10,65.05860,25.46645,jeremias
+A81758FFFE046436,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus Brisk,65.05854,25.46622,jeremias
+A81758FFFE046504,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 7 slot 6,65.05871,25.46625,jeremias
+A81758FFFE030F87,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 13 slot 8,65.05865,25.46598,jeremias
+A81758FFFE030F73,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 15 slot 6,65.05868,25.46589,jeremias
+A81758FFFE030F69,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 22 slot 11,65.05858,25.46552,jeremias
+A81758FFFE030FE9,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 26 slot 7,65.05866,25.46532,jeremias
+A81758FFFE0463BC,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 27 slot 11,65.05859,25.46530,jeremias
+A81758FFFE0463BF,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus Galaxy,65.05882,25.46553,jeremias
+A81758FFFE0463BE,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 27 slot 3,65.05874,25.46524,jeremias
+A81758FFFE0463B9,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 21 slot 7,65.05868,25.46557,jeremias
+A81758FFFE030FCE,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Between elevator and stairs next to entrance 2M,65.05781,25.46395,jeremias
+A81758FFFE046467,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Media lounge ceiling,65.05872,25.46746,jeremias
+A81758FFFE046464,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,White pillar top end of Agoras main stairs,65.05875,25.46798,jeremias
+A81758FFFE031068,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,L6 avove row 13,65.05990,25.46634,jeremias
+A81758FFFE030FEB,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Hallway, white pillar next to windows",65.05746,25.46782,jeremias
+A81758FFFE030FB8,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway above grey door outside of main building,65.05725,25.46777,jeremias
+A81758FFFE046462,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,White pillar on hallway leading to OAMK side on campus,65.06030,25.46670,jeremias
+A81758FFFE04646B,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,Fablab 2nd floor group project space lamp railing,65.05892,25.46803,jeremias
+A81758FFFE04652A,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Western wall of Fablab,65.05891,25.46751,jeremias
+A81758FFFE04487F,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,JULIA D4,65.06348,25.46497,jeremias
+A81758FFFE044879,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A5,65.06338,25.46575,jeremias
+A81758FFFE046F2C,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO B4,65.06330,25.46552,jeremias
+A81758FFFE030D49,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Opposite to TS456 next to first aid kit,65.05786,25.46982,jeremias
+A81758FFFE03104F,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Hallway between TS440 & TS441 next to green door,65.05782,25.46833,jeremias
+A81758FFFE030FE6,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Opposite to TS326 above fire extinguisher,65.05806,25.46919,jeremias
+A81758FFFE030F71,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Next to TS3119,65.05746,25.46930,jeremias
+A81758FFFE031049,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Opposite to TS256,65.05786,25.46925,jeremias
+A81758FFFE046571,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,Corner of central lobby,65.05784,25.46884,jeremias
+A81758FFFE030FBA,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Opposite to elevator,65.05751,25.46891,jeremias
+A81758FFFE030FCF,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Bottom of stairs 1st floor,65.05795,25.46894,jeremias
+A81758FFFE030FB4,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to TS191,65.05744,25.46867,jeremias
+A81758FFFE031089,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,White pillar next to spices desk,65.06054,25.46642,jeremias
+A81758FFFE046574,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,1st floor magazines-area,65.06118,25.46657,jeremias
+A81758FFFE030FF4,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Roof next to entrance,65.06119,25.46682,jeremias
+A81758FFFE030F8F,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to 2nd story stairs,65.06124,25.46658,jeremias
+A81758FFFE031052,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Above linguistics and logopedics-shelf,65.06129,25.46623,jeremias
+A81758FFFE03103F,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Above main area computer,65.06118,25.46675,jeremias
+A81758FFFE030F70,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above self service cash registers,65.05825,25.46676,jeremias
+A81758FFFE03107B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to 7A101,65.06117,25.46784,jeremias
+A81758FFFE030F94,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to stairs and Cafeteria kitchen 7B214,65.06135,25.46936,jeremias
+A81758FFFE030F97,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,"In ""Julinian yläaula"" attached to white pillar",65.06086,25.46683,jeremias
+A81758FFFE031070,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to 7E114,65.06168,25.46918,jeremias
+A81758FFFE030F4E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to storage room 7F111a,65.06146,25.46992,jeremias
+A81758FFFE030D4D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Back corner of Saalastinsali,65.05710,25.46816,jeremias
+A81758FFFE03107F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7C102,65.06142,25.46794,jeremias
+A81758FFFE03107E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7B121,65.06112,25.46978,jeremias
+A81758FFFE031041,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7A153,65.06116,25.46892,jeremias
+A81758FFFE031001,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,in 7A221,65.06131,25.46819,jeremias
+A81758FFFE031095,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Cube 2,65.05860,25.46627,jeremias
+A81758FFFE030F9D,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Cube 1,65.05860,25.46633,jeremias
+A81758FFFE046580,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Horizontal pillar above ticket selling desk,65.05896,25.46628,jeremias
+A81758FFFE030FDB,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Above yellow sign in ""Tekniikan aula""",65.05844,25.46672,jeremias
+A81758FFFE030F64,Elsys ERS CO2,1,planned,2020-06-06T00:00:00.000Z,"Yellow cable channel in front of WC""s",65.05808,25.46709,jeremias
+A81758FFFE0464FB,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Above orange coat rack Yellow cable channel,65.05961,25.46628,jeremias
+A81758FFFE0464FF,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Attached between two security cameras in the middle of the hallway,65.05843,25.46375,jeremias
+A81758FFFE030F89,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Next to womens WC, beneath hallway clock",65.05885,25.46404,jeremias
+A81758FFFE031056,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Between info TVs in front of B entrance,65.06114,25.46695,jeremias
+A81758FFFE0464AB,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Next to KTK-101,65.05999,25.46413,jeremias
+A81758FFFE030FF6,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,above BF119-3,65.05965,25.46339,jeremias
+A81758FFFE03108F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway to ITEE building,65.05791,25.46794,jeremias
+A81758FFFE030F56,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,TS455 above shelf,65.05790,25.47000,jeremias
+A81758FFFE0464B5,Elsys ERS Sound,3,installed,2020-06-06T00:00:00.000Z,North-end lobby,65.05807,25.46892,jeremias
+A81758FFFE030F45,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,North-end lobby,65.05807,25.46890,jeremias
+A81758FFFE0464BA,Elsys ERS Sound,4,installed,2020-06-06T00:00:00.000Z,North-end lobby,65.05807,25.46890,jeremias
+A81758FFFE030F5F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,IT120 next to door,65.05781,25.46446,jeremias
+A81758FFFE031074,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,TM115 brick wall,65.05973,25.46816,jeremias
+A81758FFFE030F78,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK254 next to window,65.06106,25.46622,jeremias
+A81758FFFE030FE7,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK266 Backwall,65.06114,25.46627,jeremias
+A81758FFFE031024,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,PK261 backwall,65.06113,25.46605,jeremias
+A81758FFFE0464FD,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Behind lecturer,65.05938,25.46605,jeremias
+A81758FFFE04633D,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Backwall,65.05948,25.46560,jeremias
+A81758FFFE0464B1,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Behind lecturer,65.05918,25.46653,jeremias
+A81758FFFE046339,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Behind lecturer,65.05940,25.46654,jeremias
+A81758FFFE030FCC,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Right side of the lexture hall, second row, Under the lip",65.05915,25.46595,jeremias
+A81758FFFE03108E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Next to entrance 2M, under first spotlight",65.05786,25.46395,jeremias
+A81758FFFE046435,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,IT105,65.05771,25.46415,jeremias
+A81758FFFE031050,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,FY258-1,65.05908,25.46461,jeremias
+A81758FFFE04657F,Elsys ERS Sound,-1,installed,2020-06-06T00:00:00.000Z,Yellow Cable channel next to elevator,65.05928,25.46627,jeremias
+A81758FFFE0464B7,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,In the middle of H20 above wooden structure behind the leaves,65.05765,25.46759,jeremias
+A81758FFFE031075,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,In front of KTK-149,65.05983,25.46484,jeremias
+A81758FFFE030FAB,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,In front of Subway,65.06103,25.46678,jeremias
+A81758FFFE03102C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Between Kastari entrance and start of food lines,65.05699,25.46767,jeremias
+A81758FFFE031094,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Glass hallway next to door,65.05792,25.46972,jeremias
+A81758FFFE03100A,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Roof of the glass hallway,65.05998,25.46391,jeremias
+A81758FFFE046502,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 2 slot 3,65.05875,25.46651,jeremias
+A81758FFFE030FED,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 1 slot 10,65.05860,25.46656,jeremias
+A81758FFFE030FDE,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Aspire,65.05855,25.46654,jeremias
+A81758FFFE030FD7,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 7 slot 8,65.05865,25.46626,jeremias
+A81758FFFE04650B,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 10 slot 8,65.05866,25.46615,jeremias
+A81758FFFE046509,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 16 slot 5,65.05870,25.46583,jeremias
+A81758FFFE030FA0,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 22 slot 13,65.05854,25.46551,jeremias
+A81758FFFE0463BD,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 25 slot 8,65.05863,25.46539,jeremias
+A81758FFFE030FD3,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 27 slot 13,65.05854,25.46526,jeremias
+A81758FFFE03105B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus Galaxy,65.05882,25.46564,jeremias
+A81758FFFE030F58,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 27 slot 2,65.05877,25.46523,jeremias
+A81758FFFE030F46,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Tellus rail 24 slot 6,65.05870,25.46543,jeremias
+A81758FFFE046432,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Tellus Frost Club,65.05883,25.46657,jeremias
+A81758FFFE030F5E,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Yellow cable channel next to entrance to Agora,65.05876,25.46746,jeremias
+A81758FFFE046466,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Agora central lobby white pillar in front of AT146,65.05867,25.46771,jeremias
+A81758FFFE046463,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,L5 above video projector,65.05973,25.46632,jeremias
+A81758FFFE046469,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Hallway next to info board outside of New Hairstore,65.05789,25.46768,jeremias
+A81758FFFE046468,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Hallway above grey door outside of main building,65.05725,25.46774,jeremias
+A81758FFFE031093,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Red wall next to entrance X1,65.06013,25.46685,jeremias
+A81758FFFE031039,Elsys ERS CO2,-1,installed,2020-06-06T00:00:00.000Z,Napa white pillar next to L1,65.05938,25.46608,jeremias
+A81758FFFE031003,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Western wall of Fablab,65.05893,25.46751,jeremias
+A81758FFFE041FEE,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,JULIA D3,65.06343,25.46504,jeremias
+A81758FFFE041FED,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A7 between path and pond,65.06342,25.46569,jeremias
+A81758FFFE04487A,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO B1,65.06334,25.46557,jeremias
+A81758FFFE046F2B,Elsys ELT-2 with soil moisture,1,installed,2020-06-06T00:00:00.000Z,ROMEO A11 next to path intersection,65.06341,25.46553,jeremias
+A81758FFFE030FD9,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Next to TS436,65.05795,25.46838,jeremias
+A81758FFFE046570,Elsys ERS Sound,4,installed,2020-06-06T00:00:00.000Z,corner of 4th floor central lobby,65.05783,25.46884,jeremias
+A81758FFFE046575,Elsys ERS Sound,3,installed,2020-06-06T00:00:00.000Z,Corner of 3rd floor central lobby,65.05765,25.46884,jeremias
+A81758FFFE03101D,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Corner of central lobby,65.05786,25.46883,jeremias
+A81758FFFE030FC7,Elsys ERS CO2,4,installed,2020-06-06T00:00:00.000Z,Opposite to large elevator,65.05775,25.46891,jeremias
+A81758FFFE031014,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to TS2110,65.05746,25.46923,jeremias
+A81758FFFE031097,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Bottom of stairs 1st floor,65.05774,25.46894,jeremias
+A81758FFFE03107C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,South-end lobby,65.05746,25.46884,jeremias
+A81758FFFE030F7F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to YY165,65.06036,25.46670,jeremias
+A81758FFFE030FA7,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,1st floor magazines-area,65.06118,25.46661,jeremias
+A81758FFFE03106F,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,End of coursebook shelf Vu-Ö,65.06124,25.46709,jeremias
+A81758FFFE031066,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to philosophy and history department door,65.06132,25.46666,jeremias
+A81758FFFE0463AF,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,Above History of individual coutries-shelf,65.06142,25.46646,jeremias
+A81758FFFE030F85,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Next to stairs 3rd floor,65.06123,25.46660,jeremias
+A81758FFFE04652D,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Above Foobar foodline,65.05830,25.46677,jeremias
+A81758FFFE030FC1,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Around a corner next to 7A102 AMK side of campus,65.06123,25.46752,jeremias
+A81758FFFE031078,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to 7B216,65.06134,25.46969,jeremias
+A81758FFFE03104E,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to Pegasus 2nd floor entrance and B1 stairs,65.06107,25.46675,jeremias
+A81758FFFE031015,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Ceiling of botanical garden lobby,65.06352,25.46530,jeremias
+A81758FFFE031057,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Conference room KP01,65.06367,25.46496,jeremias
+A81758FFFE0463B2,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Next to backstage computers in Saalastinsali,65.05691,25.46841,jeremias
+A81758FFFE0463B0,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,"Saalastinsali, next to entrance",65.05694,25.46785,jeremias
+A81758FFFE030F54,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7B125,65.06137,25.46968,jeremias
+A81758FFFE030FC4,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7B103,65.06112,25.46914,jeremias
+A81758FFFE04652F,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,in 7A221,65.06132,25.46819,jeremias
+A81758FFFE030F67,Elsys ERS CO2,3,installed,2020-06-06T00:00:00.000Z,Above legal deposit workstations,65.06150,25.46674,jeremias
+A81758FFFE031029,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Above bread table in Foobar,65.05834,25.46676,jeremias
+A81758FFFE031007,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Opposite to 7A120,65.06123,25.46873,jeremias
+A81758FFFE030F5D,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Next to class 7A245 and stairs P250,65.06129,25.46910,jeremias
+A81758FFFE031044,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,Attached to a white pillar next to 5D201,65.06048,25.46669,jeremias
+A81758FFFE0463B7,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Ceiling of Botanical garden lobby,65.06353,25.46534,jeremias
+A81758FFFE030D4C,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Gym 7F120,65.06162,25.46992,jeremias
+A81758FFFE03106B,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,"Saalastinsali, next to entrance",65.05705,25.46799,jeremias
+A81758FFFE031069,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Campus ICT 7D101,65.06144,25.46849,jeremias
+A81758FFFE04652B,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,in 7B121,65.06112,25.46957,jeremias
+A81758FFFE04652E,Elsys ERS Sound,2,installed,2020-06-06T00:00:00.000Z,in 7B212,65.06111,25.46975,jeremias
+A81758FFFE0463B5,Elsys ERS Sound,1,installed,2020-06-06T00:00:00.000Z,Hallway next to LO105,65.05807,25.46584,jeremias
+A81758FFFE031048,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Attached to pillar at the end of cafeteria,65.06100,25.46808,jeremias
+A81758FFFE030FDD,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Ceiling of botanical garden lobby,65.06351,25.46544,jeremias
+A81758FFFE031053,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Next to 7F127,65.06170,25.46990,jeremias
+A81758FFFE030F92,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Saalastinsali back corner,65.05678,25.46791,jeremias
+A81758FFFE030FE0,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7A119,65.06131,25.46802,jeremias
+A81758FFFE030FD8,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,in 7B117,65.06116,25.46936,jeremias
+A81758FFFE030F8C,Elsys ERS CO2,2,installed,2020-06-06T00:00:00.000Z,in 7B212,65.06112,25.46949,jeremias
+A81758FFFE030FFE,Elsys ERS CO2,1,installed,2020-06-06T00:00:00.000Z,Hallway next to LO105,65.05809,25.46576,jeremias
