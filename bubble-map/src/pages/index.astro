@@ -1,0 +1,167 @@
+---
+import { data } from "~/lib/data"
+
+import "~/assets/global.css"
+import "maplibre-gl/dist/maplibre-gl.css"
+---
+
+<html lang="en" class="min-h-full flex">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Astro</title>
+  </head>
+  <body class="grow flex flex-col items-center px-6 py-12" data-data={JSON.stringify(data)}>
+    <div class="prose w-[800px] max-w-[revert]">
+      <h1 class="mb-0">The campus routine</h1>
+      <p class="mt-2">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi, praesentium?
+      </p>
+    </div>
+    <div class="rounded-lg border border-gray-300 my-8 relative overflow-hidden">
+      <div id="map-container" class="w-[800px] h-[600px] relative"></div>
+      <div
+        class="bg-white px-4 pt-3 pb-1 rounded-lg border border-gray-300 shadow absolute top-6 right-6"
+      >
+        <div class="prose prose-sm">
+          <h4>Sound</h4>
+          <ul class="not-prose">
+            <li class="h-10 flex gap-3 items-center">
+              <div class="h-8 w-8 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
+              </div>
+              123456 dB
+            </li>
+            <li class="h-10 flex gap-3 items-center">
+              <div class="h-6 w-6 mx-1 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
+              </div>
+              123456 dB
+            </li>
+            <li class="h-10 flex gap-3 items-center">
+              <div class="h-4 w-4 mx-2 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
+              </div>
+              123456 dB
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <input type="range" id="time-slider" class="slider w-[800px]" min="0" max="24" value="0" />
+    <div class="w-[800px] flex justify-between items-center px-[calc(0.5rem-2px)] pb-12 mt-4">
+      {
+        new Array(25)
+          .fill(0)
+          .map((_, i) => (
+            <div class={`bg-gray-300 w-0.5 ${i % 6 == 0 ? "h-6" : "h-3"} rounded-full relative`}>
+              {i % 6 == 0 && (
+                <span class="text-lg absolute -bottom-10 left-1/2 -translate-x-1/2">
+                  {i % 24}:00
+                </span>
+              )}
+            </div>
+          ))
+      }
+    </div>
+    <script>
+      import * as d3 from "d3"
+      import maplibregl from "maplibre-gl"
+      import { Protocol } from "pmtiles"
+      import type { DataPoint } from "~/lib/data"
+
+      const data = JSON.parse(document.body.getAttribute("data-data")!) as DataPoint[]
+
+      let currentHour = 0
+
+      const mapContainer = document.getElementById("map-container") as HTMLDivElement
+
+      let protocol = new Protocol()
+      maplibregl.addProtocol("pmtiles", protocol.tile)
+
+      const map = new maplibregl.Map({
+        container: mapContainer,
+        style: "https://api.maptiler.com/maps/dataviz/style.json?key=ur6Yh3ULc6QjatOYBgln",
+        center: [25.46927150709142, 65.05927244083233],
+        zoom: 14.9,
+      })
+
+      const svg = d3
+        .select("#map-container")
+        .append("svg")
+        .attr(
+          "class",
+          "absolute top-0 left-0 w-full h-full pointer-events-none [&_circle]:pointer-events-auto"
+        )
+      const gSound = svg.append("g")
+
+      const project = (coord: [number, number]) => {
+        const point = map.project(new maplibregl.LngLat(coord[0], coord[1]))
+        return [point.x, point.y]
+      }
+
+      const drawBubbles = (currentHour: number) => {
+        const filtered = data.filter((d) => d.hour == currentHour)
+
+        const soundCircles = gSound
+          .selectAll<SVGCircleElement, DataPoint>("circle")
+          .data(filtered, (d) => d.deviceId)
+        // Enter
+        soundCircles
+          .enter()
+          .append("circle")
+          .attr("r", 0)
+          .attr("fill", "#fdba74")
+          .attr("fill-opacity", "0.7")
+          .attr("stroke", "#f97316")
+          .attr("stroke-opacity", "0.8")
+          .attr("stroke-width", "2")
+          .attr("cx", (d) => project([d.location.longitude, d.location.latitude])[0])
+          .attr("cy", (d) => project([d.location.longitude, d.location.latitude])[1])
+          .on("click", (_, d) => console.log(d))
+          .transition()
+          .duration(500)
+          .attr("r", (d) => Math.sqrt(d.soundAvgLinear))
+        // Update
+        soundCircles
+          .transition()
+          .duration(500)
+          .attr("cx", (d) => project([d.location.longitude, d.location.latitude])[0])
+          .attr("cy", (d) => project([d.location.longitude, d.location.latitude])[1])
+          .attr("r", (d) => Math.sqrt(d.soundAvgLinear))
+        // Exit
+        soundCircles.exit().transition().duration(500).attr("r", 0).remove()
+      }
+
+      map.on("load", () => {
+        drawBubbles(currentHour)
+        /* map.scrollZoom.disable()
+        map.boxZoom.disable()
+        map.dragRotate.disable()
+        map.dragPan.disable()
+        map.keyboard.disable()
+        map.doubleClickZoom.disable()
+        map.touchZoomRotate.disable() */
+      })
+
+      map.on("move", () => {
+        drawBubbles(currentHour)
+      })
+
+      // Slider event
+      const timeSlider = document.getElementById("time-slider") as HTMLInputElement
+      timeSlider.addEventListener("input", () => {
+        currentHour = +timeSlider.value % 24
+        drawBubbles(currentHour)
+      })
+
+      /* map.on("load", () => {
+        map.on("click", (e) => {
+          const lng = e.lngLat.lng
+          const lat = e.lngLat.lat
+          const zoom = map.getZoom()
+          console.log({ lng, lat, zoom })
+        })
+      }) */
+    </script>
+  </body>
+</html>

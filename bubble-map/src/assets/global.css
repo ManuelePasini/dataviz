@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+@layer components {
+  .slider {
+    @apply appearance-none h-4 bg-gray-200 opacity-70 hover:opacity-100 transition-colors rounded-full outline-none;
+  }
+
+  .slider::-webkit-slider-thumb {
+    @apply appearance-none h-4 w-4 rounded-full bg-gray-600 cursor-pointer;
+  }
+}
