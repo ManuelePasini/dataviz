@@ -1,4 +1,5 @@
 /results
+/preprocess_results
 /dataset/measurements.csv
 
 ~$*.pptx
