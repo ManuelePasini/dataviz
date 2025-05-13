@@ -15,33 +15,36 @@ import "maplibre-gl/dist/maplibre-gl.css"
   </head>
   <body class="grow flex flex-col items-center px-6 py-12" data-data={JSON.stringify(data)}>
     <div class="prose w-[800px] max-w-[revert]">
-      <h1 class="mb-0">The campus routine</h1>
-      <p class="mt-2">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi, praesentium?
-      </p>
+      <!-- <h1 class="mb-0">The Soundscape of a University Campus</h1>
+      <p class="text-lg mt-3">
+        Average hourly sound levels across the campus of Oulu, a.y. 2020-2021
+      </p> -->
+      <h2>Average hourly sound levels across the campus of Oulu, a.y. 2020-21</h2>
     </div>
     <div class="rounded-lg border border-gray-300 my-8 relative overflow-hidden">
       <div id="map-container" class="w-[800px] h-[600px] relative"></div>
       <div
-        class="bg-white px-4 pt-3 pb-1 rounded-lg border border-gray-300 shadow absolute top-6 right-6"
+        class="bg-white px-4 py-3 rounded-lg border border-gray-300 shadow absolute top-6 right-6"
       >
         <div class="prose prose-sm">
-          <h4>Sound</h4>
-          <ul class="not-prose">
-            <li class="h-10 flex gap-3 items-center">
-              <div class="h-8 w-8 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
+          <h4>Sound level</h4>
+          <ul class="not-prose space-y-4">
+            <li class="flex gap-3 items-center">
+              <div class="h-18 w-18 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
               </div>
-              123456 dB
+              60 dB
             </li>
-            <li class="h-10 flex gap-3 items-center">
-              <div class="h-6 w-6 mx-1 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
+            <li class="flex gap-3 items-center">
+              <div class="h-8 w-8 mx-5 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
               </div>
-              123456 dB
+              50 dB
             </li>
-            <li class="h-10 flex gap-3 items-center">
-              <div class="h-4 w-4 mx-2 bg-orange-300/70 rounded-full border-2 border-orange-500/80">
+            <li class="flex gap-3 items-center">
+              <div
+                class="h-5 w-5 mx-6.5 bg-orange-300/70 rounded-full border-2 border-orange-500/80"
+              >
               </div>
-              123456 dB
+              40 dB
             </li>
           </ul>
         </div>
@@ -147,12 +150,19 @@ import "maplibre-gl/dist/maplibre-gl.css"
         drawBubbles(currentHour)
       })
 
-      // Slider event
-      const timeSlider = document.getElementById("time-slider") as HTMLInputElement
-      timeSlider.addEventListener("input", () => {
+      const onSliderChange = () => {
         currentHour = +timeSlider.value % 24
         drawBubbles(currentHour)
-      })
+      }
+
+      // Slider event
+      const timeSlider = document.getElementById("time-slider") as HTMLInputElement
+      timeSlider.addEventListener("input", onSliderChange)
+
+      /* setInterval(() => {
+        timeSlider.value = `${(+timeSlider.value + 1) % 24}`
+        onSliderChange()
+      }, 500) */
 
       /* map.on("load", () => {
         map.on("click", (e) => {
